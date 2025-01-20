@@ -42,6 +42,11 @@ A Vierling, <ins>T Sutjaritvorakul</ins>, K Berns\
 CVT 2020\
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-19648-6_58)
 
+**Dataset Generation Using a Simulated World**\
+A Vierling, <ins>T Sutjaritvorakul</ins>, J Pawlak, K Berns\
+RAAD 2019\
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-19648-6_58)
+
 **Crane safety system with monocular and controlled zoom cameras**\
 A Vierling, <ins>T Sutjaritvorakul</ins>, K Berns\
 ISARC 2018\
