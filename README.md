@@ -29,7 +29,7 @@ ISARC 2021\
 
 **Data-Driven Worker Detection from Load-View Crane Camera**\
 <ins>T Sutjaritvorakul</ins>, A Vierling, K Berns\
-ISARC 2022\
+ISARC 2020\
 [[paper]](https://www.iaarc.org/publications/2020_proceedings_of_the_37th_isarc/data_driven_worker_detection_from_load_view_crane_camera.html)
 
 **Simulation Platform for Crane Visibility Safety Assistance**\
