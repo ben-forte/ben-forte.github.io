@@ -7,9 +7,11 @@
 Asteroids, AR mobile game [[video]](https://youtu.be/WNskL8FNicc)
 
 ## Industrial Projects
-### SafeGuard
-Vision-based assistance system for crane operation\
-[[video 1]](https://youtu.be/EjoqwJjlqSE) [[video 2]](https://youtu.be/a1qLuy7uxss) [[video 3]](https://youtu.be/TxGKCfj1BfE)
+### SafeGuARd: Vision-based assistance system for crane operation
+Augmented Reality-based assistance system for commercial vehicles to raise the safety level. \
+The development of an assistance system for commercial vehicles, which detects approaching dangerous situations beforehand, and notifies the operator.
+
+[[Demo]](https://www.youtube.com/watch?v=nmZjnkWi9Jo) [[video 1]](https://youtu.be/EjoqwJjlqSE) [[video 2]](https://youtu.be/a1qLuy7uxss) [[video 3]](https://youtu.be/TxGKCfj1BfE)
 
 ### AsiMat
 Robust detection and localization of objects in the residential area\
