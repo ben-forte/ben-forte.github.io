@@ -1,10 +1,16 @@
 # About
+[LinkedIn](https://www.linkedin.com/in/tanittha-sutjaritvorakul/) | [GitHub](https://github.com/ben-forte) | [Google Scholar](https://scholar.google.com/citations?user=cy-C5H0AAAAJ&hl=en)
 
-[LinkedIn](https://www.linkedin.com/in/tanittha-sutjaritvorakul/) | [Google Scholar](https://scholar.google.com/citations?user=cy-C5H0AAAAJ&hl=en)
+---
 
 # Projects
+<!-- ## 3D Reconstruction
+### 3D Gaussian Splatting
+[See more about 3DGS](projects/project1/) -->
+
 ## Augmented reality (AR)
-Asteroids, AR mobile game [[video]](https://youtu.be/WNskL8FNicc)
+Asteroids, AR mobile game [[video]](https://youtu.be/WNskL8FNicc) <br /><br />
+![til](assets/images/Asteroids_AR_medium.gif)
 
 ## Industrial Projects
 ### SafeGuARd: Vision-based assistance system for crane operation
@@ -17,6 +23,7 @@ The development of an assistance system for commercial vehicles, which detects a
 Robust detection and localization of objects in the residential area\
 [[video]](https://youtu.be/L_lJPVPZH8k)
 
+---
 
 # Publications
 **Top View Deep Learning Object Detection using Active Perception in Construction Environment**\
