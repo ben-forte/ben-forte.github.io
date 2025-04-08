@@ -12,10 +12,10 @@ Metahuman
 This video showcases my early experiments with audio-driven facial animation using Unreal Engine 5.5's MetaHuman capabilities. 
 I focused on exaggerated articulation to observe the lip-sync accuracy of Unreal Engine MetaHuman.
 
-Audio-Facial Animation
+Audio-Driven Facial Animation
 ------
 "Unreal Engine 5.5: MetaHuman Audio to Facial Animation (Exaggerated Articulation)"
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TdYFo9or-Hw/0.jpg)](https://www.youtube.com/watch?v=TdYFo9or-Hw) <br>
+[![Unreal Engine 5.5: MetaHuman Audio to Facial Animation (Exaggerated Articulation)](https://img.youtube.com/vi/TdYFo9or-Hw/0.jpg)](https://www.youtube.com/watch?v=TdYFo9or-Hw) <br>
 ### Subtitle
 > Bob brought bright blue balloons to the big birthday bash. 
 >
@@ -36,7 +36,8 @@ Audio-Facial Animation
 4. Audio Application: Applied the recorded audio to Sook-ja's facial mesh within Unreal Engine 5.5.
 
 To truly appreciate the exaggerated articulation, feel free to enable subtitles and try speaking along! 🙂 
-You can also see the facial control rig in action [here](https://youtu.be/JMbK1a-bpSo)
+You can also see the facial control rig in action as below. <br>
+[![MetaHuman Audio to Facial Animation (Exaggerated Articulation) with Facial Control Rig](https://img.youtube.com/vi/JMbK1a-bpSo/0.jpg)](https://www.youtube.com/watch?v=JMbK1a-bpSo) <br>
 
 This project is part of my effort to enhance my Unreal Engine skills, building upon my previous experience as part of my PhD work in simulating construction environments (see [my portfolio](https://bit.ly/ts-portfolio-ue-unity-videos)).
 
